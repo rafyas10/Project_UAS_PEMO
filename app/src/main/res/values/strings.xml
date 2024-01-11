@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UAS_Mobile</string>
+    <string name="main_title">EarthQuake Info</string>
+    <string name="title_activity_login">login</string>
+</resources>

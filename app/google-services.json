@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279302834336",
+    "project_id": "fir-uasmobile",
+    "storage_bucket": "fir-uasmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279302834336:android:6913abc9919ece2a69a1c5",
+        "android_client_info": {
+          "package_name": "com.myapp.uas_mobile_mry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm0_acncxkzmgwz2OtzxvCEheqyPLJoxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
